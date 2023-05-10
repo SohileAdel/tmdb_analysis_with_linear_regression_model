@@ -1,8 +1,23 @@
-In this project,
-<ul>
-  <li>I used Python to clean and analyze data about more than 10K movies.</li>
-  <li>Plots that visualize the data we are asking research questions about.</li>
-  <li>Conclusions after the exploratory analysis.</li>
-  <li>Limitations affected the analysis process.</li>
-  <li>A linear regression model to predict the revenue based on multiple variables.</li>
-</ul>
+# TMDB Analysis
+This project is a part of the [Data Analysis Professional Course](https://egfwd.com/specializtion/data-analysis-professional/) at [Udacity](https://www.udacity.com/).
+
+#### -- Project Status: Completed
+
+## Project Intro/Objective and Description
+The purpose of this project is to analyze a dataset about 10K movies on TMDB and then communicate findings about it.
+Outline for Analysis: 
+- Assessed the data and brainstormed questions that could be answered using the data
+- Performed necessary cleaning steps to unify formats, deal with missing data and prepare the dataset for analysis
+- Wrangled and explored the data using Pandas and Numpy to gather insights about the relationship between different aspects, created visualizations using Matplotlib and made inferences to answer research questions
+- Built a regression model to predict the revenue based on multiple variables.
+
+### Methods Used
+* Data Exploration/Descriptive Statistics
+* Data Visualization
+* Machine Learning
+
+### Technologies
+* Python
+* Jupyter Notebook
+* Pandas, Numpy, Scikit Learn, Matplotlib
+
