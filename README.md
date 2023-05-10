@@ -4,7 +4,7 @@ This project is a part of the [Data Analysis Professional Course](https://egfwd.
 #### -- Project Status: Completed
 
 ## Project Intro/Objective and Description
-The purpose of this project is to analyze a dataset about 10K movies on TMDB and then communicate findings about it.
+The purpose of this project is to analyze a dataset of 10K movies on TMDB and then communicate findings about it.
 Outline for Analysis: 
 - Assessed the data and brainstormed questions that could be answered using the data
 - Performed necessary cleaning steps to unify formats, deal with missing data and prepare the dataset for analysis
