@@ -1,5 +1,4 @@
 # TMDB Analysis
-This project is a part of the [Data Analysis Professional Course](https://egfwd.com/specializtion/data-analysis-professional/) at [Udacity](https://www.udacity.com/).
 
 #### -- Project Status: Completed
 
